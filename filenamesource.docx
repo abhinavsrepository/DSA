@@ -1,0 +1,13 @@
+"Explainable AI: A Practical Guide" by Leilani H. Gilpin, David Bau, et al.
+"Interpretable Machine Learning" by Christoph Molnar
+Online Courses:
+"Explainable AI (XAI)" by DeepLearning.AI on Coursera
+"Explainable AI" by Google AI on TensorFlow.org
+Open-source libraries:
+SHAP (Model Agnostic Explanations)
+LIME (Local Interpretable Model-agnostic Explanations)
+ELI5 (Explain Like I'm 5)
+
+      research paper --- https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8312.pdf
+      christophar molnar --- https://originalstatic.aminer.cn/misc/pdf/Molnar-interpretable-machine-learning_compressed.pdf
+      library --- https://medium.com/analytics-vidhya/shap-shapley-additive-explanations-and-lime-local-interpretable-model-agnostic-explanations-8c0aa33e91f
